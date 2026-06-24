@@ -1,4 +1,5 @@
-# C3 Programming Manual (non-official quick introduction).
+# C3 Programming Manual 
+(non-official quick introduction).
 
 > A practical introduction to the C3 programming language, with emphasis on memory management, arrays, slices, maps, error handling, and file operations.
 
